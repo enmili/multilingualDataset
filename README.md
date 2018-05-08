@@ -9,9 +9,25 @@ The dataset was extracted from Twitter during the 2014/2015 Ebola outbreak and w
  + class 3 - Negative information  - Criticism against the government, panic, racism.
  + class 4 - Need for preparedness - Lack of hospitals, body bags, food, and safety funeral protocols.
  
- It is composed by 3 datasets:
+It is composed by 3 datasets, each dataset contains 5 files corresponding to the 5 classes:
+
+English dataset - 1162 tweets
+ + class0.txt
+ + class1.txt
+ + class2.txt
+ + class3.txt
+ + class4.txt
  
- + English dataset - 1162 tweets
- + Portuguese dataset - 246 tweets
- + Japanese dataset - 211 tweets
+ Portuguese dataset - 246 tweets
+ + class0br.txt
+ + class1br.txt
+ + class2br.txt
+ + class3br.txt
+ + class4br.txt
  
+ Japanese dataset - 211 tweets
+ + class0jp.txt
+ + class1jp.txt
+ + class2jp.txt
+ + class3jp.txt
+ + class4jp.txt
